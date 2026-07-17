@@ -6,8 +6,6 @@
 
 I'm a fourth-year Computer Science and Engineering student at Amrita Vishwa Vidyapeetham (Amritapuri), passionate about building new things and increasingly drawn toward research.
 
-## Expertise
-
 I currently work with **Flutter and mobile application development**, with hands-on experience shipping real fixes and features to production open-source apps rather than just toy projects.
  
 Currently exploreing Machine learning, Deep learning and Neurosymbolic AI.
