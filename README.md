@@ -4,12 +4,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Flutter+%26+Mobile+Developer;Machine+Learning;Open+Source+Contributor+%40+FOSSASIA%2C+amFOSS;Exploring+Neuro-Symbolic+AI" alt="Typing SVG" />
 </p>
 
-<p align="center">
-<a href="https://github.com/amfoss"><img src="https://img.shields.io/badge/amFOSS-000000?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://github.com/fossasia"><img src="https://img.shields.io/badge/FOSSASIA-contributor-orange?style=flat-square" /></a>
-<img src="https://img.shields.io/badge/PRO-gold?style=flat-square" />
-</p>
-
 I'm a fourth-year Computer Science and Engineering student at Amrita Vishwa Vidyapeetham (Amritapuri), passionate about building new things and increasingly drawn toward research.
 
 ## Expertise
